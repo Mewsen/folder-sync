@@ -1,4 +1,4 @@
-## 🗂️ File Sync Script
+## 🗂️ Folder Sync Script
 
 This script synchronizes a **main folder** to one or more **backup folders** using `rsync`. It uses a `.folder-sync` file in each directory to identify its role.
 
